@@ -1,4 +1,4 @@
-## Hi, Rizqi 👋
+## Hi, I'm Rizqi 👋
 
 
 My name is **Muhammad Rizqi Faadhillah**, <br>
