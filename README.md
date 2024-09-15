@@ -2,7 +2,7 @@
 
 
 My name is **Muhammad Rizqi Faadhillah**, <br>
-I'm a Cloud Computing Cohort at [Bangkit Academy 2024 Batch 2](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).
+I'm a Cloud Computing Cohort at [Bangkit Academy 2024 Batch 2](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
 <br>
 and undergraduate at [University Sultan Ageng Tirtayasa](https://untirta.ac.id).
 <br>
